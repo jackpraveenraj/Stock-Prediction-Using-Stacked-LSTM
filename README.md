@@ -21,4 +21,4 @@ The system must be able to access a list of historical prices. It must calculate
 # Web Application:
 ![WebApp Preview](https://drive.google.com/uc?export=view&id=1kAAXAgayNwZOqzMSuHR8yq10E641JXJF)
 
-### Check Out The [Project Report](https://github.com/jackpraveenraj/Stock_Prediction_Using_LSTM/blob/main/Stock%20Prediction%20Project%20Report%20Github.pdf) For Detailed Documentation.
+### Check Out The [Project Report](https://github.com/jackpraveenraj/Stock-Prediction-Using-Stacked-LSTM/blob/main/Stock%20Prediction%20Project%20Report%20Github.pdf) For Detailed Documentation.
