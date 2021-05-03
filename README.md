@@ -1,7 +1,7 @@
 
 # Stock Price Prediction Using Stacked LSTM
 
-![Banner Image](https://drive.google.com/uc?export=view&id=1ndeCq4lFX2IKAtvRXNJHpTaoF-IbfjuG)
+![Banner Image](https://drive.google.com/uc?export=view&id=1GyHLybCPf3SsMsM9-eZHM99DobxZ4zRw)
 
 # Project Title:
 Stock Price Prediction Using Stacked LSTM
