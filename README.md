@@ -13,4 +13,4 @@ In the past decades, there is an increasing interest in predicting markets among
 # Technical Objective:
 The technical objectives will be implemented in R. The system must be able to access a list of historical prices. It must calculate the estimated price of stock based on the historical data for the next 30 days. It must also provide an instantaneous visualization of the market index in a neatly formatted Python-Based Web App.
 
-### Check Out The Project Report For Detailed Documentation.
+### Check Out The [Project Report](https://github.com/jackpraveenraj/Stock_Prediction_Using_LSTM/blob/main/Stock%20Prediction%20Project%20Report%20Github.pdf) For Detailed Documentation.
