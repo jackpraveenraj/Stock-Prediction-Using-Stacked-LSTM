@@ -1,6 +1,6 @@
 # Stock Prediction Using LSTM
 
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1d71rPYep25oyPzs4io39c_8Ljxu_CfZt)
+![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1Xcvm9JSl5dEJ2jmxEmy-TMh_ezooPWVy)
 
 ## Project Title:
 Stock Prices Prediction Using Stacked LSTM
